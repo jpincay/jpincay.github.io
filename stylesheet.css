@@ -1,7 +1,12 @@
 Header{
      font-family: "Permanent Marker";
-}     
+}
+
 Section{
      color:green;
      font-family: "Courier New";
+}
+
+body{
+     Background: black;
 }
