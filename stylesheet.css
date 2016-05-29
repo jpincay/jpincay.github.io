@@ -5,8 +5,6 @@ Header{
 Section{
      color:blue;
      font-family: "Courier New";
-}
-
-body{
-     background:"5BBDDE";
+background{
+     color:"#5BBDDE";
 }
