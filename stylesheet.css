@@ -1,5 +1,5 @@
 Header{
-     font-family: "Permanent Marker";
+     font-family: "Arial";
 }
 
 Section{
@@ -7,6 +7,6 @@ Section{
      font-family: "Courier New";
 }
 
-background{
-     background:5BBDDE;
+body{
+     background:"5BBDDE";
 }
