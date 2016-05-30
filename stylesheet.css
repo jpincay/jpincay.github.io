@@ -5,17 +5,16 @@ Header{
 Section{
      color:blue;
      font-family: "Courier New";
+}
      
-Background{
-     color:"#5BBDDE";
+body{
+     color:"black";
 }
 
 h1{
-     color:Blue;
+     color: blue;
      border:3px solid green;
-     border-radius:15px 50px;
+     border-radius: 15px 50px;
      background: black;
      padding: 20px;
-     
-     
 }
