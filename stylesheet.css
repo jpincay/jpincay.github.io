@@ -1,10 +1,11 @@
 Header{
-     font-family: "Arial";
+     font-family: "New Times Roman";
 }
 
 Section{
      color:blue;
      font-family: "Courier New";
-background{
+     
+Background{
      color:"#5BBDDE";
 }
