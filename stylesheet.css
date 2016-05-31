@@ -47,9 +47,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#131313', end
 nav{
      color:green;
      display:inline;
-     margin-right:10px;
+     
 }
 
 .lit{
 display:inline;
+margin-right:30px;
 }
