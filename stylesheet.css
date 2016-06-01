@@ -38,7 +38,9 @@ footer{
 .lit{
 display:inline;
 margin-right:30px;
-background: blue;
+}
+.lit:hover{
+     background: #A1B0B5;
 }
 
 header{
