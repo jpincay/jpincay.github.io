@@ -47,11 +47,10 @@ header{
      position: relative;
 }
 
-#what's_up{
+#what'sup{
      display:inline-block;
-     width:80%;
+     width:20%;
 }
-
 #info{
      display:absolute;
      width:20%;
