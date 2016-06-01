@@ -41,4 +41,16 @@ margin-right:30px;
 background: blue;
 }
 
+header{
+     position: relative;
+}
+
+#what's_up{
+     display:inline-block;
+     width:60%;
+}
+
+#info{
+     display:absolute;
+}
 
