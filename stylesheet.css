@@ -12,9 +12,14 @@ h1 {
      font-family: Courier New; 
 }
 
+h7{
+     font-size:100;
+     width:60;
+}
+
 Section{
      font-family: "Courier New";
-     width:30;
+     width:60;
 }
      
 body{
