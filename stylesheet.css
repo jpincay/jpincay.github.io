@@ -20,6 +20,11 @@ h6{
 Section{
      font-family: "Courier New";
      width:725px;
+     background: orange;
+}
+
+aside{
+     background: red;
 }
      
 body{
