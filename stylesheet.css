@@ -1,4 +1,4 @@
-Header{
+header{
      font-family: "New Times Roman";
      text-align: Center;
 }
@@ -17,7 +17,7 @@ h6{
      width:725px;
 }
 
-Section{
+section{
      font-family: "Courier New";
      width:725px;
      background: orange;
@@ -52,7 +52,7 @@ header{
      width:80%;
 }
 #info{
-     display:absolute;
-     width:20%;
+     display:inline-block;
+     width:15%;
 }
 
