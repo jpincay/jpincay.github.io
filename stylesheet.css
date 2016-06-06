@@ -49,10 +49,14 @@ header{
 
 #what_up{
      display:inline-block;
-     width:80%;
+     width:81%;
+     position:absolute;
 }
 #info{
      display:inline-block;
-     width:15%;
+     width:18%;
+     height:500px;
+     position:absolute;
+     right:0;
 }
 
