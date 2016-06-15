@@ -33,7 +33,7 @@ aside{
      
 body{
      border:5px;
-     background:yellow;
+     background:black;
 }
 
 footer{
@@ -63,5 +63,11 @@ header{
      height:500px;
      position:absolute;
      right:0;
+}
+
+li,p,h7,h2,h3{
+	color:white;
+}
+	
 }
 
