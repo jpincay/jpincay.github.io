@@ -5,7 +5,8 @@ header{
 
 header{
 	background:#287485;
-	right:100%;
+	right:0;
+	left:0;
 }
 
 h1 {
@@ -26,6 +27,7 @@ section{
      font-family: "Courier New";
      width:725px;
      background: #287485;
+     left:0;
 }
 
 aside{
@@ -45,6 +47,7 @@ footer{
 display:inline;
 margin-right:30px;
 }
+
 .lit:hover{
      background: #A1B0B5;
 }
@@ -70,5 +73,5 @@ li,p,h7,h2,h3{
 	color:white;
 }
 	
-}
+
 
